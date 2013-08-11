@@ -1,10 +1,15 @@
+Build.PL
 Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+README
+cpanfile
+dist.ini
 lib/Web/Library/UnderscoreJS.pm
-Makefile.PL
-MANIFEST			This list of files
-MANIFEST.SKIP
-README.md
 share/1.4.4/js/underscore-min.js
+share/1.5.0/js/underscore-min.js
+share/1.5.1/js/underscore-min.js
 t/basic.t
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
+t/release-pod-syntax.t
