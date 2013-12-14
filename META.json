@@ -4,7 +4,7 @@
       "The following person is the author of all the files provided in"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Milla version v1.0.3, Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.132140",
+   "generated_by" : "Dist::Milla version v1.0.4, Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "perl_5"
    ],
@@ -31,7 +31,7 @@
       },
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.025"
+            "Module::Build::Tiny" : "0.030"
          }
       },
       "develop" : {
@@ -59,7 +59,7 @@
          "web" : "https://github.com/marcelgruenauer/Web-Library-UnderscoreJS"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_contributors" : [
       "Marcel Gruenauer <hanekomu@gmail.com>"
    ]

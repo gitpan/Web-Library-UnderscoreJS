@@ -1,8 +1,8 @@
 package Web::Library::UnderscoreJS;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.03';
-sub latest_version { '1.5.1' }
+our $VERSION = '0.04';
+sub latest_version { '1.5.2' }
 
 sub version_map {
 
@@ -44,7 +44,8 @@ methods for an explanation of the concept.
 
 =item Version 1.4.4
 =item Version 1.5.0
-=item Version 1.5.1 (the default)
+=item Version 1.5.1
+=item Version 1.5.2 (the default)
 
     * js/underscore-min.js
 

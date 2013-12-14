@@ -1,5 +1,9 @@
 Revision history for Perl extension Web-Library-UnderscoreJS
 
+0.04  2013-12-14 16:45:52 CET
+    [New Features]
+        - Added Underscore.js 1.5.2
+
 0.03  2013-08-11 21:20:51 CEST
     [Improvements]
         - Converted to Dist::Milla
